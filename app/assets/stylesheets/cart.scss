@@ -1,6 +1,6 @@
 .cart-show {
   tr div {
-    width: max-content;
+    width: 100%;
   }
 
   button.stripe-button-el span {
@@ -9,4 +9,5 @@
     background: rgba(0, 130, 29, 0.7);
     color: white;
   }
+  
 }
